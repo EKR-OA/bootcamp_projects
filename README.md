@@ -14,14 +14,14 @@ We learn 10 sprints during 4 months program
 - Dashboard
 
 # Finished Projects
-- SQL Database
+### SQL Database
 - [X] Creaate restaurant database and use sub quries / CTE 
-- R Programing
+### R Programing
 - [X] Chat bot pizza (Rules Base)
 - [X] Rock Paper Scissors game condition
-- Dashboard
+### Dashboard
 - [X] The 2014 Inc5000 company dashboard by looker studio
 - [X] Netflix dashboard (TV shows and movies available on Netflix as of 2019)
-- Web scraping by R
+### Web scraping by R
 - [X] Specphone web scraping
 - [X] IMDb web scraping
