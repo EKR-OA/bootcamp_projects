@@ -15,7 +15,7 @@ We learn 10 sprints during 4 months program
 
 # Finished Projects
 ### SQL Database
-- [x] [Creaate restaurant database and use sub quries / CTE](../blob/main/SQL%20database/restaurant.sql)
+- [x] [Creaate restaurant database and use sub quries / CTE](blob/main/SQL%20database/restaurant.sql)
 ### R Programing
 - [x] Chat bot pizza (Rules Base)
 - [x] Rock Paper Scissors game
