@@ -14,6 +14,10 @@ We learn 10 sprints during 4 months program
 - Dashboard
 
 # Finished Projects
+### Spreadsheets
+- [x] [Dynamic Query](Spreadsheets/Project%20Dynamic%20Query.pdf)
+- [x] [Convert TH to EN date](Spreadsheets/Project%20Convert%20TH%20to%20EN%20Date.pdf)
+- [x] [ID Card Parser](Spreadsheets/Project%20ID%20Card%20Parser.pdf)
 ### SQL Database
 - [x] [Restaurant Database](SQL%20database/restaurant.sql) : Creaate restaurant database and use sub quries / CTE 
 ### R Programing
