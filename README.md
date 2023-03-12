@@ -30,7 +30,7 @@ We learn 10 sprints during 4 months program
 - [x] [Adcertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf)
 ### Python Programing
 - [x] [ATM Project](Python/ATM%20Project%20-%20OOP.ipynb)
-- [x] [Rock Paper Scissors Game - Python](Python/Rock%20Paper%20Scissors%20-%20Python.ipynb)
+- [x] [Rock Paper Scissors Game - Python]
 ### Dashboard
 - [x] [The 2014 Inc5000 company dashboard](https://lookerstudio.google.com/reporting/beb3cef1-c75f-4184-a9ff-4dd0b96b7245) : Create dashboard by using looker studio
 - [x] [Superstore Sales](https://public.tableau.com/views/MyFirstTableau_16743604725430/SuperstoresalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) : Create dashboard by using Tableau
