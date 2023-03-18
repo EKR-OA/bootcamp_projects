@@ -27,7 +27,7 @@ We learn 10 sprints during 4 months program
 - [x] [Specphone web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20Specphone.pdf) : `Web scraping` by R
 - [x] [IMDb web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20IMDB.pdf) : `Web scraping` by R
 ### Statistics
-- [x] [Adcertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf)
+- [x] [Advertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf)
 ### Python Programing
 - [x] [Analyzing Sales Data] : Analyze sales data by using `Pandas` and `Numpy` library
 - [x] [ATM Project](Python/ATM%20Project%20-%20OOP.ipynb) : use `OOP (object-oriented programming)` concept to crete `class` and `method` for ATM basic function
