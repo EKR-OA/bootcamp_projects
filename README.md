@@ -1,5 +1,5 @@
 # Bootcamp Projects
-Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datarockie)
+Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datarockie)  
   We learn 10 sprints during 4 months program
 
 - Spreadsheets
@@ -13,7 +13,7 @@ Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datar
 - Essential Python for Data Analysy
 - Dashboard
 
-# Finished Projects
+# My Finished Projects
 ### Spreadsheets
 - [x] [Dynamic Query](Spreadsheets/Project%20Dynamic%20Query.pdf) : Create `dynamic query` by using downdrop block
 - [x] [Convert TH to EN date](Spreadsheets/Project%20Convert%20TH%20to%20EN%20Date.pdf) : Convert date format from BE to AD
