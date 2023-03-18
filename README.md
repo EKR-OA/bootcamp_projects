@@ -1,5 +1,5 @@
 # Bootcamp Projects
-Data science bootcamp with `adToy`
+Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datarockie)
 We learn 10 sprints during 4 months program
 
 - Spreadsheets
@@ -25,7 +25,7 @@ We learn 10 sprints during 4 months program
 - [x] [Rock Paper Scissors game](R%20Programming/rockpaperscissors.r) : Create Rock paper scissors game unlimited turns by using R
 ### Web scraping by R
 - [x] [Specphone web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20Specphone.pdf) : Scape data from Specphone website by using R
-- [x] [IMDb web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20IMDB.pdf) : Scape data from IMDb website and convert to dataframe by using R
+- [x] [IMDb web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20IMDB.pdf) : Scape data from IMDb website and convert to data frame by using R
 ### Statistics
 - [x] [Advertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf) : Apply AB testing to advertising data
 ### Python Programing
