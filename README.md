@@ -24,13 +24,13 @@ We learn 10 sprints during 4 months program
 - [x] [Chat bot pizza (Rules Base)](R%20Programming/ChatBotPizza.r) : Create chat bot pizza rules base by using R
 - [x] [Rock Paper Scissors game](R%20Programming/rockpaperscissors.r) : Create Rock paper scissors game unlimited turns by using R
 ### Web scraping by R
-- [x] [Specphone web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20Specphone.pdf) : `Web scraping` by R
-- [x] [IMDb web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20IMDB.pdf) : `Web scraping` by R
+- [x] [Specphone web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20Specphone.pdf) : Scape data from Specphone website by using R
+- [x] [IMDb web scraping](main/Web%20scraping/Mini%20project%20Web%20scraping%20-%20IMDB.pdf) : Scape data from IMDb website and convert to dataframe by using R
 ### Statistics
-- [x] [Advertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf)
+- [x] [Advertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf) : Apply AB testing to advertising data
 ### Python Programing
 - [x] [Analyzing Sales Data] : Analyze sales data by using `Pandas` and `Numpy` library
-- [x] [ATM Project](Python/ATM%20Project%20-%20OOP.ipynb) : use `OOP (object-oriented programming)` concept to crete `class` and `method` for ATM basic function
+- [x] [ATM Project](Python/ATM%20Project%20-%20OOP.ipynb) : use `OOP (object-oriented programming)` concepts to crete `class` and `method` for ATM basic function
 - [x] [Rock Paper Scissors Game - Python](Python/Rock%20Paper%20Scissors%20-%20Python.ipynb) : Create Rock paper scissors game unlimited turns by Python
 ### Dashboard
 - [x] [The 2014 Inc5000 company dashboard](https://lookerstudio.google.com/reporting/beb3cef1-c75f-4184-a9ff-4dd0b96b7245) : Create dashboard by using `looker studio`
