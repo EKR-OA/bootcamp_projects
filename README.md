@@ -1,6 +1,6 @@
 # Bootcamp Projects
 Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datarockie)
-We learn 10 sprints during 4 months program
+  We learn 10 sprints during 4 months program
 
 - Spreadsheets
 - SQL Database
