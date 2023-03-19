@@ -29,7 +29,7 @@ Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datar
 ### Statistics
 - [x] [Advertising AB testing](Statistics/RCT%20%26%20AB%20Test%20Sample%20-%20Independent%20T-Test.pdf) : Apply AB testing to advertising data
 ### Python Programing
-- [x] [Analyzing Sales Data] : Analyze sales data by using `Pandas` and `Numpy` library
+- [x] [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/kIpFnfL5AorPygLG3MCjZW/uMY3KrjoH0UeRADpwnbr8H): Analyze sales data by using `Pandas` and `Numpy` library
 - [x] [ATM Project](Python/ATM%20Project%20-%20OOP.ipynb) : Use `OOP (object-oriented programming)` concepts to create `class` and `method` for ATM basic function
 - [x] [Rock Paper Scissors Game - Python](Python/Rock%20Paper%20Scissors%20-%20Python.ipynb) : Create Rock paper scissors game unlimited turns by Python
 ### Dashboard
