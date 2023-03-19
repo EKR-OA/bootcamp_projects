@@ -19,7 +19,7 @@ Data science bootcamp with `adToy` : [Datarockie](https://web.facebook.com/datar
 - [x] [Convert TH to EN date](Spreadsheets/Project%20Convert%20TH%20to%20EN%20Date.pdf) : Convert date format from BE to AD
 - [x] [ID Card Parser](Spreadsheets/Project%20ID%20Card%20Parser.pdf) : Use `regular expression` command to scape information from ID Card information
 ### SQL Database
-- [x] [Restaurant Database](SQL%20database/restaurant.sql) : Creaate restaurant database and use `sub quries` / `CTE` to analyze data
+- [x] [Restaurant Database](SQL%20database/restaurant.sql) : Creaate restaurant database and use `sub quries` / `CTE` to analyze data for business questions
 ### R Programing
 - [x] [Chat bot pizza (Rules Base)](R%20Programming/ChatBotPizza.r) : Create chat bot pizza rules base by using R
 - [x] [Rock Paper Scissors game](R%20Programming/rockpaperscissors.r) : Create Rock paper scissors game unlimited turns by using R
